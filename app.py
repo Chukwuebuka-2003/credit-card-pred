@@ -1,5 +1,6 @@
 import streamlit as st
 import joblib
+import xgboost
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
